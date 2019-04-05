@@ -12,3 +12,6 @@ Then you or someone else you give access can decrypt them like so:
 ```
 python3 doctor.py
 ```
+
+![](gif.gif)
+
